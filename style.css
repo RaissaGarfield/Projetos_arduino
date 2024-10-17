@@ -1,0 +1,46 @@
+body{
+    background-color: #161817;
+    text-align: center;
+}
+nav a:link{
+    font-size: 16px;
+    color: #f48b1e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: rgb(230, 153, 52);
+}
+
+h1{
+    color: #f16728;
+    font-size: 36px;
+    text-decoration: overline underline;
+}
+h2{
+    color: #e6854b;
+    font-size: 30px;
+    text-decoration: underline overline;
+}
+p{
+    color: #ffffff;
+    font-size: 21px;
+}
+pre{
+    color: #cca58f;
+}
+div img{
+    border-radius: 33px;
+    border: solid white 6px;
+    border-style: dashed ;
+    max-width: max-content ;
+    max-height: max-content ;
+}
+div small{
+    font-size: larger;
+    color: #997c6b;
+}
+.video{
+    border-radius: 10px;
+}
